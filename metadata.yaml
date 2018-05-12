@@ -1,0 +1,39 @@
+_repo: The-Fairchild-Family_29725
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Rudland, Florence M.
+    gutenberg_agent_id: '34114'
+    url: http://www.gutenberg.org/2009/agents/34114
+covers:
+- cover_type: archival
+  image_path: 29725-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sherwood, Mrs. (Mary Martha)
+    aliases:
+    - Sherwood, Mary Martha Butt
+    - Sherwood, Mrs.
+    birthdate: 1775
+    deathdate: 1851
+    gutenberg_agent_id: '4312'
+    url: http://www.gutenberg.org/2009/agents/4312
+  editor:
+    agent_name: Palgrave, Mary E.
+    alias: Palgrave, M. E. (Mary E.)
+    gutenberg_agent_id: '34113'
+    url: http://www.gutenberg.org/2009/agents/34113
+description: ''
+gutenberg_issued: '2009-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29725'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Fairchild Family
+url: http://www.gutenberg.org/ebooks/29725
